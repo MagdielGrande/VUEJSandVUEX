@@ -1,6 +1,6 @@
 <template>
     <footer>
-        Copyright@2022 <a href="https://github.com/MagdielGrande">Magdiel</a>
+        Copyright@2022 <a href="https://github.com/MagdielGrande">Magdiel G.</a>
     </footer>
 </template>
 
