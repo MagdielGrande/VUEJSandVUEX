@@ -1,19 +1,14 @@
-# pasteleria
+# Práctica de VueJS. Creación del sitio web de una Pastelería. 
 
-## Project setup
+## VueJS
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+vue create <Nombre app>
 ```
 
-### Compiles and minifies for production
+### Add
 ```
-npm run build
+VUEX,  Routes, Bootstrap
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### FRONTEND
+Ver [Repositorio de prácticas](https://github.com/MagdielGrande/FrontEnd).
